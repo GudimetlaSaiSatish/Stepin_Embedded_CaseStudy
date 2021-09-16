@@ -1,3 +1,8 @@
+[![Code Quality - Static Code - Cppcheck](https://github.com/GudimetlaSaiSatish/Stepin_Embedded_CaseStudy/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/GudimetlaSaiSatish/Stepin_Embedded_CaseStudy/actions/workflows/cppcheck.yml)
+[![Compile-Linux](https://github.com/GudimetlaSaiSatish/Stepin_Embedded_CaseStudy/actions/workflows/compile.yml/badge.svg)](https://github.com/GudimetlaSaiSatish/Stepin_Embedded_CaseStudy/actions/workflows/compile.yml)
+![Code Inspector](https://www.code-inspector.com/project/28673/score/svg)
+![Code Inspector](https://www.code-inspector.com/project/28673/status/svg)
+
 # Stepin_Embedded_CaseStudy
 ## Description
 - In this case study car seat heating system is implemented.
