@@ -14,7 +14,7 @@
 
 ## Defining Our System
 ### Architecture
--    This project is capable of performing following functions :- 
+-    This project is capable of performing following functions 
 -    Enable the heating only when driver is seated.
 -    Heater power can be controlled by using switches.
 -    User can control the temperature by the knob provided.
