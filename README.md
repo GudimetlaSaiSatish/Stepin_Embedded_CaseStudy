@@ -2,6 +2,7 @@
 [![Compile-Linux](https://github.com/GudimetlaSaiSatish/Stepin_Embedded_CaseStudy/actions/workflows/compile.yml/badge.svg)](https://github.com/GudimetlaSaiSatish/Stepin_Embedded_CaseStudy/actions/workflows/compile.yml)
 ![Code Inspector](https://www.code-inspector.com/project/28673/score/svg)
 ![Code Inspector](https://www.code-inspector.com/project/28673/status/svg)
+![Codacy Badge](https://app.codacy.com/project/badge/Grade/48e7bd54eb0a4dcabcccdd767f74c788)](https://www.codacy.com/gh/GudimetlaSaiSatish/Stepin_Embedded_CaseStudy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GudimetlaSaiSatish/Stepin_Embedded_CaseStudy&amp;utm_campaign=Badge_Grade)
 
 # Stepin_Embedded_CaseStudy
 ## Description
