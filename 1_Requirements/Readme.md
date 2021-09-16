@@ -1,7 +1,7 @@
 # Requirements
 ## Introduction
-- Heated seats are often thought of as a luxury item and are most often included in high-end cars. The actual technology behind heated seats, however, is no different than that used in electric blankets, hair dryers, water heaters and anything else that uses electricity to produce heat.
-- In this project some operations of car temperature are implemented.
+  - Heated seats are often thought of as a luxury item and are most often included in high-end cars. The actual technology behind heated seats, however, is no different than that used in electric blankets, hair dryers, water heaters and anything else that uses electricity to produce heat.
+  -  In this project some operations of car temperature are implemented.
 ## Research
 [research topics](https://www.bockmansautocare.com/how-do-heated-seats-work/)--source
 
@@ -40,19 +40,19 @@
 # 4W&#39;s and 1&#39;H
 
 ## Who:
-- Automobile and Domestic furnitures.
+ - Automobile and Domestic furnitures.
 
 ## What:
-- In modern cars, a function such as seat heating is often already included in the standard factory equipment. If it is not, then the drivers install the heating system on their own. This is one of the elements that is necessary to increase the comfort level of operating vehicles in the cold season. With heating in the winter, you do not have to wait long and warm up the interior, as the seats become warm in a matter of minutes. It is very convenient, therefore such systems are very popular among our drivers.
+ - In modern cars, a function such as seat heating is often already included in the standard factory equipment. If it is not, then the drivers install the heating system on their own. This is one of the elements that is necessary to increase the comfort level of operating vehicles in the cold season. With heating in the winter, you do not have to wait long and warm up the interior, as the seats become warm in a matter of minutes. It is very convenient, therefore such systems are very popular among our drivers.
 ## When:
-- Even in modren era of computer technology there is need for a tool in Man-Machine communication. We know that machines only understand binary language but a man might not and vice-versa.
-- Better understanding of machines is possible only when we can understand the machine language. This Binary conversion tool has the scope in such cases.
+ - Even in modren era of computer technology there is need for a tool in Man-Machine communication. We know that machines only understand binary language but a man might not and vice-versa.
+ - Better understanding of machines is possible only when we can understand the machine language. This Binary conversion tool has the scope in such cases.
 
 ## Where:
-- Automobiles, Domestic, Industrial and Commercial purposes.
+ - Automobiles, Domestic, Industrial and Commercial purposes.
 
 ## How:
-- Provided the required inputs the temperature can be controlled using the Knob provided.
+ - Provided the required inputs the temperature can be controlled using the Knob provided.
 # Detail requirements
 ## High Level Requirements:
 
