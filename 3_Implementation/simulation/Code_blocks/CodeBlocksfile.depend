@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1631754794 source:e:\codeblocks\activity-4\adc.c
+	<avr/io.h>
+
+1631754198 source:e:\codeblocks\activity-4\fuse.c
+	<avr/io.h>
+
+1631759142 source:e:\codeblocks\activity-4\pwm.c
+	<avr/io.h>
+	<util/delay.h>
+	"UART.h"
+
+1631759142 e:\codeblocks\activity-4\uart.h
+
+1631757979 source:e:\codeblocks\activity-4\uart.c
+	<avr/io.h>
+
+1631759307 source:e:\codeblocks\activity-4\led.c
+	<avr/io.h>
+	"LED.h"
+
+1631761515 e:\codeblocks\activity-4\led.h
+
+1631761619 source:e:\codeblocks\activity-4\main.c
+	<avr/io.h>
+	"ADC.h"
+	"CHECK.h"
+	"LED.h"
+	"PWM.h"
+	"UART.h"
+
+1631759142 e:\codeblocks\activity-4\adc.h
+
+1631761601 e:\codeblocks\activity-4\check.h
+
+1631759142 e:\codeblocks\activity-4\pwm.h
+
+1631760643 source:e:\codeblocks\activity-4\check.c
+	<avr/io.h>
+	"LED.h"
+	"CHECK.h"
+
